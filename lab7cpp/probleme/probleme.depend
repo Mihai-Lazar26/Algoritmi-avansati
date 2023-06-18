@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653314042 source:d:\facultate info\anul 2\sem 2\aa\lab7cpp\probleme\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<iomanip>
+
