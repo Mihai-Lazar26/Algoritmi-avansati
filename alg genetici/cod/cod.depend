@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650819289 source:d:\facultate info\anul 2\sem 2\aa\alg genetici\cod\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<ctime>
+	<vector>
+	<string>
+

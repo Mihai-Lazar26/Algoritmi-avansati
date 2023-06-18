@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646659353 source:d:\aa\comisv\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

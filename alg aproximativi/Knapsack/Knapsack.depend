@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647075657 source:d:\facultate info\anul 2\sem 2\aa\knapsack\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
